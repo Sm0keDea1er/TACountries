@@ -118,6 +118,29 @@
             <div class="col-12 col-md-4">
                 <div class="card">
                     <div class="card-header">
+                        <i class="float-right icon-thermometer"></i>
+                        <span class="h6"><b>Климат</b></span>
+                    </div>
+                    <div class="list-group-item">
+                        <p>Мягкий субтропический</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <div class="d-flex justify-content-between">
+                                <div>Лето</div>
+                                <span>от +25 до +35 °С</span>
+                            </div>
+                        </li>
+                        <li class="list-group-item">
+                            <div class="d-flex justify-content-between">
+                                <div>Зима</div>
+                                <span>от +10 до +15 °С</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <div class="card-header">
                         <i class="float-right icon-light-bulb"></i>
                         <span class="h6"><b>Электросеть</b></span>
                     </div>
